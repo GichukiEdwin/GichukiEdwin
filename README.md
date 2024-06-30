@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Edwin Gichuki</h1>
 <h3 align="center">Full-Stack Software Developer from Kenya</h3>
 
-<img align="left" alt="Coding" width="400" src="https://www.flaticon.com/free-animated-icon/responsive_8722699?term=code&page=1&position=9&origin=search&related_id=8722699">
-
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edugichuki&label=Profile%20views&color=0e75b6&style=flat" alt="edugichuki" /> </p>
 
-<p align="left"> <a href="https://twitter.com/edvichuki_" target="blank"><img src="https://img.shields.io/twitter/follow/edvichuki_?logo=twitter&style=for-the-badge" alt="edvichuki_" /></a> </p>
+<img align="left" alt="Coding" width="50" src="https://github.com/edugichuki/edugichuki/blob/main/responsive.gif">
+
+<p align="center"> <a href="https://twitter.com/edvichuki_" target="blank"><img src="https://img.shields.io/twitter/follow/edvichuki_?logo=twitter&style=for-the-badge" alt="edvichuki_" /></a> </p>
+
 
 - 🔭 I’m currently working on **A React-powered food ordering app**
 
