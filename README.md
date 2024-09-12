@@ -1,8 +1,8 @@
 <!-- Profile Icon -->
-<img align="left" alt="Coding" width="50" src="https://github.com/edugichuki/edugichuki/blob/main/responsive.gif">
+<img align="left" alt="Coding" width="50" src="https://github.com/GichukiEdwin/GichukiEdwin/blob/main/responsive.gif">
 
 <!-- Developer Image -->
-![Developer](https://github.com/edugichuki/edugichuki/blob/main/developer-8829709_1920.jpg)
+![Developer](https://github.com/GichukiEdwin/GichukiEdwin/blob/main/developer-8829709_1920.jpg)
 
 <!-- Profile Heading -->
 <h1 align="center">Hi 👋, I'm Edwin Gichuki</h1>
@@ -13,7 +13,7 @@
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=edugichuki&label=Profile%20views&color=0e75b6&style=flat" alt="edugichuki" />
+  <img src="https://komarev.com/ghpvc/?username=GichukiEdwin&label=Profile%20views&color=0e75b6&style=flat" alt="GichukiEdwin" />
 </p>
 
 <!-- Twitter Follow Button -->
@@ -105,15 +105,15 @@
 </p>
 <!-- GitHub Top Languages -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edugichuki&show_icons=true&locale=en&layout=compact" alt="edugichuki" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GichukiEdwin&show_icons=true&locale=en&layout=compact" alt="GichukiEdwin" />
 </p>
 
 <!-- GitHub Stats -->
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edugichuki&show_icons=true&locale=en" alt="edugichuki" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GichukiEdwin&show_icons=true&locale=en" alt="GichukiEdwin" />
 </p>
 
 <!-- GitHub Streak Stats -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edugichuki&" alt="edugichuki" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GichukiEdwin&" alt="GichukiEdwin" />
 </p>
